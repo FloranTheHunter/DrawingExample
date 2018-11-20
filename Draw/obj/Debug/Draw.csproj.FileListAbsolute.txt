@@ -1,0 +1,9 @@
+C:\Users\Sir\source\repos\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\Sir\source\repos\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\Sir\source\repos\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\Sir\source\repos\Draw\Draw\obj\Debug\Draw.TPanel.resources
+C:\Users\Sir\source\repos\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\Sir\source\repos\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\Sir\source\repos\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\Sir\source\repos\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\Sir\source\repos\Draw\Draw\obj\Debug\Draw.pdb
